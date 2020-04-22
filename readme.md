@@ -7,7 +7,7 @@
 -git push origin master
 -git status
 -git checkout -b <branch-name>
--git pull origin <branch-name>
+-git pull origin master
 
 
 
